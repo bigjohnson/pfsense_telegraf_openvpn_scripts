@@ -2,4 +2,4 @@
 
 ## log Openvpn connect and disconenct events on pfsense
 
-[Openvpn script settings](avanzata.png)
+![Openvpn script settings](avanzata.png)
