@@ -9,3 +9,7 @@ Add scripts to openvpn settings
 create the scripts with correct execution mode.
 
 ![Openvpn scripts modes](permessi.png)
+
+Telegrams messages received:
+
+![Received messages](result.png)
